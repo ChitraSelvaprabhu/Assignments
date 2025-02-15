@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-15T16:14:56 IST" name="Default suite" finished-at="2025-02-15T16:15:29 IST" duration-ms="33259">
+    <groups>
+    </groups>
+    <test started-at="2025-02-15T16:14:56 IST" name="Default test" finished-at="2025-02-15T16:15:29 IST" duration-ms="33259">
+      <class name="testCases.StockPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.StockPageTest@2e377400]" started-at="2025-02-15T16:14:56 IST" name="setup" finished-at="2025-02-15T16:15:26 IST" duration-ms="29794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectStock()[pri:0, instance:testCases.StockPageTest@2e377400]" started-at="2025-02-15T16:15:26 IST" name="selectStock" finished-at="2025-02-15T16:15:27 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectStock -->
+        <test-method signature="verifyStockPrice()[pri:1, instance:testCases.StockPageTest@2e377400]" started-at="2025-02-15T16:15:27 IST" name="verifyStockPrice" finished-at="2025-02-15T16:15:29 IST" duration-ms="2326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStockPrice -->
+        <test-method signature="capturePreviousClose()[pri:2, instance:testCases.StockPageTest@2e377400]" started-at="2025-02-15T16:15:29 IST" name="capturePreviousClose" finished-at="2025-02-15T16:15:29 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturePreviousClose -->
+        <test-method signature="captureVolume()[pri:3, instance:testCases.StockPageTest@2e377400]" started-at="2025-02-15T16:15:29 IST" name="captureVolume" finished-at="2025-02-15T16:15:29 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureVolume -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.StockPageTest@2e377400]" started-at="2025-02-15T16:15:29 IST" name="tearDown" finished-at="2025-02-15T16:15:29 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.StockPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
